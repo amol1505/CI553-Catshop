@@ -1,6 +1,5 @@
-# 2019-CI553-catshop
-CatShop system for CI553 (2019-20 cohort)
+# 2020-CI553-catshop
+CatShop system for 2020-CI553 (2020-21 cohort)
 
-Version 1.2.1
+Initialised from 2019-CI553- catshop Version 1.2.1
 
-Including support for JUnit5 and patches to testing and deployment scripts
